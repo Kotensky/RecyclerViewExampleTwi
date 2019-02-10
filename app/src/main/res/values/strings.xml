@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView Example (Twi)</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Автор посту: %1$s</string>
+    <string name="author_name_hint">Ім\'я автора</string>
+    <string name="post_text_hint">Текст</string>
+    <string name="avatar_img_hint">Посилання на аватар</string>
+</resources>
